@@ -1,13 +1,24 @@
 ## Wellcome to The Special React Native Template
 
-  - Hello the react native deverloper, I am very honored when you use this template.
-  - This is a React Native source template based on the Expo SDK, along with a combination of Mobile Ant Design, Redux, Redux-Sagas etc. (I have mentioned the libraries used under the Libraries section). I am very grateful to the people who created this library. And I made this template called The Special React Native Template that combines these libraries together. Hope to be a great contribution to the React Native Deverloper community.
-  - Final. Please enjoy this source template.
+  - Hello the React Native Deverloper, My name is Jackson Nguyen, I'm very honored when you use this template.
+  - This is a React Native open-source template based on the Expo SDK, along with a combination of Mobile Ant Design, Redux, Redux-Sagas etc. (I have mentioned the libraries used under the Libraries section). I'm very grateful to the people who created this library. And I made this template called The Special React Native Template that combines these libraries together. Hope to be a great contribution to the React Native Deverloper community.
+  - Final. Let's Enjoy it.
+
+## Characteristics:
+
+  - First of all, The template using Expo SDK to init the app.
+  - State management with Redux.
+  - Effect side with redux-saga.
+  - UI use Mobile Ant Design components and react-native-typography.
+  - Multi language with I18n.
+  - Navigation with react-navigation v2.
 
 ## Usage 
+
 1. npm install
 2. exp start
 - [Read documents of Expo SDK ] (https://docs.expo.io/versions/latest/)
+
 # Project Folder Structure: 
 
   - assets: Put any media files, fronts, colors.
@@ -23,7 +34,7 @@
   - actions: Action of redux
   - reducer: Reducer of redux
   - stores: Store of redux
-  - I18n: put multi languages
+  - I18n: put multi languages (en.js, vi.js)
 
 ## Code style
 
@@ -49,4 +60,5 @@
 
   - [Jackson Nguyen](https://github.com/jacksonnguyendev)
 
-## Contributor:# special-rn-expo
+## Contributor:
+
