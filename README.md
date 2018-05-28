@@ -5,7 +5,9 @@
   - Final. Please enjoy this source template.
 
 ## Usage 
-
+1. npm install
+2. exp start
+- [Read documents of Expo SDK ] (https://docs.expo.io/versions/latest/)
 # Project Folder Structure: 
 
   - assets: Put any media files, fronts, colors.
