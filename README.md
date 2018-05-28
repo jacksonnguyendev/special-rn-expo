@@ -3,6 +3,9 @@
   - Hello the React Native Deverloper, My name is Jackson Nguyen, I'm very honored when you use this template.
   - This is a React Native open-source template based on the Expo SDK, along with a combination of Mobile Ant Design, Redux, Redux-Sagas etc. (I have mentioned the libraries used under the Libraries section). I'm very grateful to the people who created this library. And I made this template called The Special React Native Template that combines these libraries together. Hope to be a great contribution to the React Native Deverloper community.
   - Final. Let's Enjoy it.
+## Pictures:
+![alt Android](https://i.imgur.com/sNuhFF0.jpg)
+![alt IOS](https://i.imgur.com/AY5tOYa.png)
 
 ## Characteristics:
 
