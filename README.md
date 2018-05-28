@@ -41,7 +41,7 @@
 
 ## Code style
 
-  [eslint Airbnb]: (https://github.com/airbnb/javascriptreact)
+  - [eslint Airbnb]: (https://github.com/airbnb/javascriptreact)
 
 ## Libraries
 
